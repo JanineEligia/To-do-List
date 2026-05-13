@@ -5,8 +5,6 @@ from tkinter import *
 window = Tk()
 window.title("To-do List")
 
-task= []
-
 # Functions
 
 def remove_task(task, variable):
